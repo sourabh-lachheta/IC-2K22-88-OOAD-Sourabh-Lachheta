@@ -1,0 +1,14 @@
+A Class Diagram is a UML structural diagram that represents the classes in a system, their attributes, methods, and relationships with other classes.
+
+What does it show in Lord of Realms?
+
+It represents the internal structure of the game.
+- Game: Controls the overall game flow.
+- GameWindow: Manages the graphical user interface using Java Swing.
+- StoryManager: Handles story progression and scene loading.
+- StoryScene: Stores individual story scene information.
+- Player: Manages player statistics such as HP, Qi, EXP, and gold.
+- Inventory: Manages collected items.
+- Item: Represents individual items and their properties.
+- CombatManager: Handles combat operations and damage calculation.
+Purpose: To understand the structure of the application and relationships between different classes
