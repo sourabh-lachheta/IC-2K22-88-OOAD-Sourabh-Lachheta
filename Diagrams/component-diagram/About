@@ -1,0 +1,14 @@
+A Component Diagram is a UML structural diagram that represents the organization and dependencies of different components or modules within a software system.
+
+What does it show in Lord of Realms?
+
+It divides the game into different functional modules.
+- Presentation Layer: Handles the graphical user interface.
+- Game Controller: Controls the overall game execution.
+- Story Module: Manages story scenes and progression.
+- Player Module: Manages player attributes and cultivation.
+- Inventory Module: Handles items and inventory operations.
+- Combat Module: Manages combat logic and damage calculations.
+It also shows how these components communicate and depend on one another.
+
+Purpose: To understand the high-level architecture and modular organization of the application.
