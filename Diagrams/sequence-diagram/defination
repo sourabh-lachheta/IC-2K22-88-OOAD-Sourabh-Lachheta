@@ -1,0 +1,13 @@
+A Sequence Diagram is a UML interaction diagram that represents communication between objects in a system in chronological order. It shows how objects exchange messages to complete a particular operation.
+
+What does it show in Lord of Realms?
+
+It demonstrates what happens when the player selects a story choice.
+- Player: Selects an available story choice.
+- GameWindow: Receives the player's selection.
+- StoryManager: Processes the selected choice.
+- StoryScene: Provides the result of the selected choice.
+- Player Model: Updates player information if required.
+The arrows represent messages exchanged between objects, while the vertical dashed lines represent their lifelines.
+
+Purpose: To understand how different objects communicate and work together during an operation.
