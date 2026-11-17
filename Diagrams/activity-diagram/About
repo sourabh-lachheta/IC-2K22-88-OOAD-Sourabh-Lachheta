@@ -1,0 +1,13 @@
+An Activity Diagram is a UML behavioral diagram that represents the workflow or sequence of activities within a system. It shows how different actions and decisions are performed.
+
+What does it show in Lord of Realms?
+
+It represents the flow of gameplay:
+1. The game starts.
+2. The game initializes and loads a story scene.
+3. The story and available choices are displayed.
+4. The player selects an action.
+5. Depending on the action, the player can explore, enter combat, use items, or view status.
+6. The game updates the player's information and displays the result.
+7. The player can continue playing or end the game.
+Purpose: To understand the workflow and decision-making process of the application.
