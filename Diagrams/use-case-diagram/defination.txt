@@ -1,0 +1,16 @@
+A Use Case Diagram is a UML diagram that represents the interaction between users (actors) and a system. It describes the functionalities that a system provides from the user's point of view.
+
+What does it show in Lord of Realms?
+
+It shows how the player interacts with the game.
+- Player: The main actor who interacts with the game.
+- Start Game: Allows the player to start the game.
+- View Player Status: Displays HP, Qi, EXP, attack, defense, and other player information.
+- View Inventory: Allows the player to check collected items.
+- Explore Story: Allows the player to explore the game world.
+- Make Story Choice: Allows the player to make decisions during the story.
+- Interact with NPC: Represents interaction with non-player characters.
+- Enter Combat: Allows the player to participate in battles.
+- Use Item / Skill: Represents using available items or abilities.
+- Cultivate / Breakthrough: Represents progression through cultivation realms.
+Purpose: To understand the system's functionality and how users interact with it.
